@@ -7,7 +7,7 @@ Data Analytics tasks completed during internship at **CodeAlpha**.
 |------|-------|--------|
 | Task 1 | Web Scraping | ✅ Done |
 | Task 2 | Exploratory Data Analysis (EDA) | ✅ Done |
-| Task 3 | Data Visualization | 🔄 In Progress |
+| Task 3 | Data Visualization | ✅ Done |
 | Task 4 | Sentiment Analysis | ⏳ Pending |
 
 ## Tools Used
