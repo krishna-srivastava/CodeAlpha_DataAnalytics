@@ -138,5 +138,3 @@ python python.py
 Successfully completed Task 1 by scraping 100+ real-world data points, handling errors gracefully, and exporting in multiple formats. Ready for Task 2 (EDA - Exploratory Data Analysis) where we'll analyze this data deeper.
 
 ---
-
-**Next:** Moving to Task 2 to explore patterns in quotes, find most common authors, analyze tags distribution, etc.
