@@ -15,9 +15,8 @@ while page_url:
     try:
         print(f"Scraping: {page_url}")
         
-        # Timeout add kro aur headers
         response = requests.get(page_url, headers=headers, timeout=10)
-        response.raise_for_status()  # Error check
+        response.raise_for_status()
         
         soup = BeautifulSoup(response.content, 'html.parser')
         quotes = soup.find_all('div', class_='quote')
@@ -42,15 +41,14 @@ while page_url:
             page_url = None
     
     except requests.exceptions.ConnectionError:
-        print("⚠️ Connection Error! Retrying in 5 seconds...")
+        print("Connection Error! Retrying in 5 seconds...")
         time.sleep(5)
         continue
     
     except Exception as e:
-        print(f"❌ Error: {e}")
+        print(f"Error: {e}")
         break
 
-# Data save kro
 df = pd.DataFrame(quotes_data)
 df.to_csv('quotes_scraped.csv', index=False, encoding='utf-8')
 
