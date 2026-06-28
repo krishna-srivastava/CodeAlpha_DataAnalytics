@@ -1,2 +1,18 @@
-# CodeAlpha_DataAnalytics
-Data Analytics Internship Task - CodeAlpha | Web Scraping, EDA, Data Visualization &amp; Sentiment Analysis using Python, Pandas, BeautifulSoup, Matplotlib &amp; Seaborn
+# CodeAlpha Data Analytics Internship
+
+Data Analytics tasks completed during internship at **CodeAlpha**.
+
+## Tasks
+| Task | Topic | Status |
+|------|-------|--------|
+| Task 1 | Web Scraping | ✅ Done |
+| Task 2 | Exploratory Data Analysis (EDA) | ✅ Done |
+| Task 3 | Data Visualization | 🔄 In Progress |
+| Task 4 | Sentiment Analysis | ⏳ Pending |
+
+## Tools Used
+Python · Pandas · BeautifulSoup · Seaborn · Matplotlib
+
+## Internship
+**Organization:** CodeAlpha  
+**Domain:** Data Analytics
