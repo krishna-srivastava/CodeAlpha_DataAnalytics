@@ -13,7 +13,7 @@ Data Analytics tasks completed during internship at **CodeAlpha**.
 
 ## Tools Used
 
-Python · Pandas · BeautifulSoup · Seaborn · Matplotlib · TextBlob
+Python · Pandas · BeautifulSoup · Seaborn · Matplotlib · TextBlob 
 
 ## Internship
 
