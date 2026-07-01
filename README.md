@@ -2,7 +2,7 @@
 
 Data Analytics tasks completed during internship at **CodeAlpha**.
 
-## Tasks
+## Tasks  
 
 | Task | Topic | Status |
 |------|-------|--------|
@@ -17,5 +17,5 @@ Python · Pandas · BeautifulSoup · Seaborn · Matplotlib · TextBlob
 
 ## Internship
 
-**Organization:** CodeAlpha
-**Domain:** Data Analytics
+**Organization:** CodeAlpha  
+**Domain:** Data Analytics  
